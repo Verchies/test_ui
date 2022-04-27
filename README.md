@@ -1,11 +1,9 @@
 # test_ui
 
-<img src="appInterface/logInPage.png" width ="400">
-![](appInterface/logInPage.png)
+<img src="appInterface/logInPage.png" width ="300">
+<img src="appInterface/mainPage.png" width ="300">
+<img src="appInterface/profilePage.png" width ="300">
 
-![](appInterface/mainPage.png)
-
-![](appInterface/profilePage.png)
 
 ## Getting Started
 
