@@ -1,6 +1,6 @@
 # test_ui
 
-<img src="appInterface/logInPage.png" width ="100">
+<img src="appInterface/logInPage.png" width ="400">
 ![](appInterface/logInPage.png)
 
 ![](appInterface/mainPage.png)
