@@ -4,6 +4,10 @@ A new Flutter project.
 
 ![](appInterface/logInPage.png)
 
+![](appInterface/mainPage.png)
+
+![](appInterface/profilePage.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
