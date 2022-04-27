@@ -1,7 +1,6 @@
 # test_ui
 
-A new Flutter project.
-<img src="appInterface/logInPage.png">
+<img src="appInterface/logInPage.png" width ="100">
 ![](appInterface/logInPage.png)
 
 ![](appInterface/mainPage.png)
