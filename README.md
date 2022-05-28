@@ -1,6 +1,6 @@
 # test_ui
 
-task.
+Task.
 
 <img src="appInterface/logInPage.png" width ="300">
 <img src="appInterface/mainPage.png" width ="300">
